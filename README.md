@@ -1,4 +1,5 @@
-# ZEERQ Auto Computer Site Using Processware 2.3.1 and Zurb Foundation 4
+# ZEERQ Auto Computer Site Profile
+Using Processware 2.3.1 and Zurb Foundation 4
 
 ## Functionality:
 
@@ -8,7 +9,10 @@ OBD2:
 - configure OBD2 server schedule
 
 Video cameras:
-- manage (start/stop server; on/off camera(s); start/stop logging; start/stop streaming; read/delete archive files) 
+- manage
+-- start/stop server; on/off camera(s); 
+-- start/stop logging; start/stop streaming;
+-- read/delete archive files) 
 - configure video (file length, number of files)
 
 ## To Install
