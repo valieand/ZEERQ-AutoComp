@@ -10,9 +10,9 @@ OBD2:
 
 Video cameras:
 - manage
--- start/stop server; on/off camera(s); 
--- start/stop logging; start/stop streaming;
--- read/delete archive files) 
+  - start/stop server; on/off camera(s); 
+  - start/stop logging; start/stop streaming;
+  - read/delete archive files) 
 - configure video (file length, number of files)
 
 ## To Install
